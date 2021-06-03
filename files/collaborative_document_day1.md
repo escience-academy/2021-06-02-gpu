@@ -60,15 +60,15 @@ Name / pronouns (optional) / job, role / social media (twitter, github, ...) / b
 
 ## 🗓️ Agenda
 
-09:00 -	Welcome and icebreaker
-09:15 -	Introduction
-09:30 -	Convolve an image with a kernel on a GPU using CuPy
-10:15 -	Coffee break
-10:30 -	Running CPU/GPU agnostic code using CuPy
-11:30 -	Coffee break
-11:45 -	Run your Python code on a GPU using Numba
-12:45 -	Wrap-up
-13:00 -	END
+09:00 	Welcome and icebreaker
+09:15 	Introduction
+09:30 	Convolve an image with a kernel on a GPU using CuPy
+10:15 	Coffee break
+10:30 	Running CPU/GPU agnostic code using CuPy
+11:30 	Coffee break
+11:45 	Run your Python code on a GPU using Numba
+12:45 	Wrap-up
+13:00 	END
 
 ## 🧠 Collaborative Notes
 
